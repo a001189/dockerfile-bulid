@@ -1,0 +1,2 @@
+From gcr.io/jenkinsxio/nexus:0.1.7
+MainTainer ysj
