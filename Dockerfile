@@ -1,2 +1,2 @@
-From gcr.io/jenkinsxio/nexus:0.1.7
-MainTainer ysj
+From busybox:latest
+Maintainer 479100885@qq.com
